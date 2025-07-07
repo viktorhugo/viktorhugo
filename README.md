@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Mosquera
 =====================================================================================================================================
 
-Web3 and Fullstack Developer
+Fullstack Web & Web3 Developer
 --------------------
 
 I am a Full Stack Web3 developer, specialized in Node.js and Angular, with +5 years of experience in creating, developing and deploying web applications and dApps. I focus on optimizing application performance so they are scalable and provide users with faster, smoother experiences. In addition to my experience in web application development, I am also excited about the world of blockchain and mobile application development where I have recently worked on some projects on the XRP Ledger network. Feel free to explore some of the projects I have worked on , I'm always open to new challenges and collaborations, so don't hesitate to reach out!
