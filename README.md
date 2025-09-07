@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web & Web3 Developer
 --------------------
 
-I am a Full Stack Web3 developer, specialized in Node.js and Angular, with +5 years of experience in creating, developing and deploying web applications and dApps. I focus on optimizing application performance so they are scalable and provide users with faster, smoother experiences. In addition to my experience in web application development, I am also excited about the world of blockchain and mobile application development where I have recently worked on some projects on the XRP Ledger network. Feel free to explore some of the projects I have worked on , I'm always open to new challenges and collaborations, so don't hesitate to reach out!
+I'm a Full Stack Web & Web3 developer with over 5 years of experience building web, mobile, and decentralized applications (dApps) that combine innovation, scalability, and high performance.
+
+I've worked on projects on the XRP Ledger, Solana, and EVM chains, and I'm currently actively involved in the Celo community, where I develop solutions on their L2. My focus is on building products that not only work, but also generate real value for users and communities.
+
+I firmly believe in the power of blockchain technology to transform industries and open up new opportunities. Therefore, I'm always looking to collaborate on initiatives that drive the growth of the Web3 ecosystem.
+
+Feel free to explore my projects and get in touch: I'm open to strategic partnerships, new ideas, and challenges that bring us closer to the future of decentralization.
 
 * 📍 I'm based in Colombia 🇨🇴
 * 🚀  Projects [victormos.dev](https://victormos.dev)
@@ -79,3 +85,4 @@ I am a Full Stack Web3 developer, specialized in Node.js and Angular, with +5 ye
 ## My GitHub Stats(Only Public Contributions) -
   
   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=viktorhugo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
+
